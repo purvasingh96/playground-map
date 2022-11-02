@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "deploy": "gh-pages -d src",
+    "deploy": "gh-pages -d geojson-deploy",
     "start": "webpack-dev-server --progress --hot --open",
     "start-local": "webpack-dev-server --env local --progress --hot --open"
   },
